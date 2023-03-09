@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html, body {
+    overflow: hidden;
+    height: 100%;
+    background-color: rgb(238, 238, 238);
+}
+
+.square {
+    position: absolute;
+    border-radius: 15px;
+    margin-top: 40px;
+    margin-left: 230px;
+    margin-right: auto;
+    height: 700px;
+    width: 1100px;
+    background-color: rgb(248, 248, 248);
+}
+
+.square2 {
+    position: absolute;
+    margin-right: auto;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    margin-top: 40px;
+    margin-left: 230px;
+    height: 700px;
+    width: 500px;
+    background-color: rgb(192, 197, 245);
+    color: rgb(192, 197, 245);
+}
+
+.fillcamp::placeholder {
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    opacity: 0.5;
+    color: black;
+    line-height: 0px;
+    padding-top: 12px;
+    padding-left: 20px;
+    
+    
+    
+}
+
+
+ 
+.textformat {
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 580px;
+}
+
+.textformat2 {
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 580px;
+    
+}
+
+.textformat3 {
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 580px;
+}
+
+.fillcamp {
+    margin-top: 20px;
+    padding-bottom: 30px;
+    padding-right: 250px;
+    margin-bottom: 10px;
+}
+
+.fillcamp1 {
+    margin-top: 20px;
+}
+
+.fillcamp2 {
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    background-color: black;
+    margin-top: 20px;
+    border: 10px  solid black;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    
+}
+
+
+.fillcamp3 {
+    cursor: pointer;
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(248, 248, 248);
+    margin-top: 35px; 
+    margin-left: 30px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    text-decoration: underline;
+    border: 0px;
+}
+
+.fillcamp4 {
+    
+    margin-top: 20px;
+}
